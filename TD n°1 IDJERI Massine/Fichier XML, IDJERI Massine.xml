@@ -1,0 +1,21 @@
+<liste>
+    <adherant>
+        <ro>adherant</ro>
+        <nom>adherant</nom>
+        <prenom>adherant</prenom>
+        <datenaissance>adherant</datenaissance>
+    </adherant>
+    
+    <activite>
+        <ro>activite</ro>
+        <libelle>activite</libelle>
+        <tarif>activite</tarif>
+    </activite>
+
+    <responsable>
+        <ro>responsable</ro>
+        <nom>responsable</nom>
+        <prenom>responsable</prenom>
+    </responsable>
+
+</liste>
