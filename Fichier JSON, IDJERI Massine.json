@@ -1,0 +1,32 @@
+{
+    "liste" : {
+        "adherant" : [
+            {
+                "numero" : "adherant",
+                "nom" : "adherant",
+                "prenom" : "adherant",
+                "datenaissance" : "adherant"
+            }
+        ] 
+    },
+
+    {
+        "activite" : [
+            {
+                "numero" : "activite",
+                "libelle" : "activite",
+                "tarif" : "activite"
+            }
+        ]
+    },
+
+    {
+        "responsale" : [
+            {
+                "numero" : "responsable",
+                "nom" : "resposable",
+                "prenom" : "resposable"
+            }
+        ]
+    }
+}
